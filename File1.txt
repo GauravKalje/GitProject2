@@ -3,6 +3,8 @@ Hello World!
 
 Updated in the login features!fix the bug!
 
-change - added for Login features.
 
-change - done by team mate for WI3
+change -: added for login feature.
+
+change -: for the bug2.
+
