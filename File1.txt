@@ -10,3 +10,5 @@ change -: for the bug2.!!!
 
 change -: WI5 for the stash
 
+change -: WI6 for checking normal push
+
